@@ -10,8 +10,6 @@ import sqlite3
 
 import requests
 from disnake.ext import commands
-import PIL
-import selenium
 
 intents = disnake.Intents()
 intents.message_content = True
